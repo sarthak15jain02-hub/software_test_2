@@ -1,3 +1,3 @@
-# software_test_2
+# SoftwareTestingLab
 this is software testing lab - class 2
 date : 01/10/2025
